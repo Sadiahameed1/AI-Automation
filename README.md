@@ -1,4 +1,4 @@
-# 👩‍💻 Sadia Hameed | QA Automation Engineer & AI Workflow Specialist
+# 👩‍💻 Automation Engineer & AI Workflow Specialist
 
 Welcome to my GitHub! I'm a **Certified QA Automation Engineer** and **AI Workflow Developer** passionate about building smart, scalable, and efficient solutions that eliminate repetitive tasks, improve test coverage, and accelerate software delivery.
 
